@@ -1,0 +1,14 @@
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\bin\Debug\net9.0\CircleCalcs.exe
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\bin\Debug\net9.0\CircleCalcs.deps.json
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\bin\Debug\net9.0\CircleCalcs.runtimeconfig.json
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\bin\Debug\net9.0\CircleCalcs.dll
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\bin\Debug\net9.0\CircleCalcs.pdb
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\CircleCalcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\CircleCalcs.AssemblyInfoInputs.cache
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\CircleCalcs.AssemblyInfo.cs
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\CircleCalcs.csproj.CoreCompileInputs.cache
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\CircleCalcs.dll
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\refint\CircleCalcs.dll
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\CircleCalcs.pdb
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\CircleCalcs.genruntimeconfig.cache
+C:\Users\03jba\Desktop\CircleCalcs\CircleCalcs\obj\Debug\net9.0\ref\CircleCalcs.dll
